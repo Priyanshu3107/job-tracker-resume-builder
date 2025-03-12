@@ -4,7 +4,7 @@ How to Run the Project
 Extract the ZIP file on your system.
 Open the extracted folder in your terminal.
 Run the following commands:
-sh
+
 Copy
 Edit
 npm install
